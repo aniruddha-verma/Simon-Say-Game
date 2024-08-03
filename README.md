@@ -1,2 +1,2 @@
 # Simon-Say-Game
-This is my first ig Project while learning MERN stack Development
+This is my first big Project while learning MERN stack Development
